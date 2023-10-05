@@ -21,7 +21,7 @@ print('Hello World!')
 
 # ## Insert Variable into a string
 
-# In[6]:
+
 
 
 person = input("What's your name?")
